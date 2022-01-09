@@ -16,18 +16,26 @@ Bem vindo a concessionária de carros
 
 🚗Modelo:Chevrolet-Astra-2.0-Hatch
  💰Preço: 30.000 Creditos sociais
-
+ 🚗Modelo: Chevrolet Camaro SS
+ 💰Preço: 140.000
+ 
 🔵 Volkswagen
 🚗Modelo:Volkswagen-Jetta-GLI-2021
  💰Preço: 150.000  Creditos sociais
+ 🚗Modelo: Gol AP 1.8 turbo
+ 💰Preço: 10.000
 
 ⚪️ Nissan  
 🚗Modelo:Nissan-Maxima-1991-V6-3.0
 💰Preço: 15.000  Creditos sociais
+🚗Modelo: Nissan Skyline R34
+ 💰Preço: 100.000
 
 🟣 Ford 
 🚗Modelo:Ford-Mustang-GT-Mach-1
 💰Preço: 400.000  Creditos sociais
+🚗Modelo:Ford GT 500 
+ 💰Preço:300.000
 
 🟠Ferrai
 🚗Modelo:Ferrari-488-pista
