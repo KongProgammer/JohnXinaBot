@@ -33,6 +33,17 @@ Bem vindo a concessionária de carros
 🚗Modelo:Ferrari-488-pista
 💰Preço: 1.000.000  Creditos sociais
 
+🔴 Bugatti
+🚗Modelo: Bugatti-Chiron
+ 💰Preço: 18.000.000
+🚗Modelo: Bugatti-La-Voiture
+ 💰Preço: 45.000.000
+
+🟥  fiat
+🚗Modelo: Fiat-Uno-Mille-1.6-turbo
+ 💰Preço:15.000
+🚗Modelo: Fiat Marea 2.4 turbo
+ 💰Preço: 18.000
 
 
 `)
