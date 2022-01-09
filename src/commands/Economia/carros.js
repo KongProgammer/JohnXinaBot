@@ -45,6 +45,11 @@ Bem vindo a concessionária de carros
 🚗Modelo: Fiat Marea 2.4 turbo
  💰Preço: 18.000
 
+ 🟣Toyota
+
+ 🚗Modelo:Toyota Supra MK4
+ 💰Preço: 85.000
+
 
 `)
 
