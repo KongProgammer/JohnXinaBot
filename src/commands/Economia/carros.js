@@ -25,7 +25,7 @@ Bem vindo a concessionária de carros
 🚗Modelo:Nissan-Maxima-1991-V6-3.0
 💰Preço: 15.000  Creditos sociais
 
-🟣 Ford Mustang
+🟣 Ford 
 🚗Modelo:Ford-Mustang-GT-Mach-1
 💰Preço: 400.000  Creditos sociais
 
