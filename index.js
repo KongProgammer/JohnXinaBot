@@ -18,7 +18,7 @@ const client = new Client({
 })
 client.once('ready', function (){
 
-console.log("bot")
+console.log("Estou Online!")
 
 })
 
