@@ -9,7 +9,7 @@ module.exports =  class extends Client {
 
         super(options)
         this.commands = []
-
+       this.loadCommands()
     }
 
     loadCommands(path = 'src/commands') {
